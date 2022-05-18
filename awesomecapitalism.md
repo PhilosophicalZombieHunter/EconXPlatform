@@ -83,6 +83,9 @@
 * [Spain Has No Government For 10 Months - Economy Grows, Unemployment Falls To 18.9%](https://www.forbes.com/sites/timworstall/2016/10/27/spain-has-no-government-for-10-months-economy-grows-unemployment-falls-to-18-9/?sh=2336bed0b62c)
 * [The Impact of Knowledge-Based Economy on Growth Performance: Evidence from MENA Countries](https://link.springer.com/article/10.1007/s13132-018-0522-4)
 * [Reform the K-12 Government- School Monopoly: Economics and Facts](https://www.aier.org/article/reform-the-k-12-government-school-monopoly-economics-and-facts/)
+
+2IP
+
 * [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding#defining-a-theory-of-change)
 * [Intellectual property rights and innovation: A panel analysis](https://www.sciencedirect.com/science/article/abs/pii/S0165176516000069)
 * [Intellectual property rights and innovation in developing countries](https://www.sciencedirect.com/science/article/abs/pii/S0304387805000635)
@@ -95,15 +98,19 @@
 * [IP Rights and Their Effect on Innovation](https://www.mckendree.edu/academics/scholars/issue6/weder.htm)
 * [Innovation and Intellectual Property](https://www.wipo.int/ip-outreach/en/ipday/2017/innovation_and_intellectual_property.html)
 
+
+USSR
+
 * [The American Tractor Comes to Soviet Agriculture: The Transfer of a Technology](https://www.jstor.org/stable/3101161)
 * [The Private Sector in Soviet Agriculture](https://www.jstor.org/stable/2493038)
 * [Soviet Agricultural Policy](https://www.jstor.org/stable/4378606)
 
+Political Corruption
 
-* [Donations from teachers unions spiked as Congress debated school reopening, virus relief](https://rollcall.com/2021/04/28/donations-from-teachers-unions-spiked-as-congress-debated-school-reopening-virus-relief/)
 * [Union Political Contributions](https://www.opensecrets.org/industries/indus.php?ind=P)
 
 Climate
+
 * [The US military is a bigger polluter than more than 100 countries combined](https://qz.com/1655268/us-military-is-a-bigger-polluter-than-140-countries-combined/)
 * [Earth Day truth: Fossil fuels make Earth BETTER](https://alexepstein.substack.com/p/earth-day-truth-fossil-fuels-make?s=w)
 * [New data on air pollution in the former Soviet Union](https://www.sciencedirect.com/science/article/abs/pii/0959378094900035)
