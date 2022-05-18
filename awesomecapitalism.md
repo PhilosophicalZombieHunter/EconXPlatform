@@ -11,7 +11,7 @@
 * [Economic freedom of the world: an accounting of the literature](https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12010)
 * [Half the world is now middle class or wealthier](https://www.brookings.edu/blog/future-development/2018/09/27/a-global-tipping-point-half-the-world-is-now-middle-class-or-wealthier/)
 * [Property in nonhuman primates](https://pubmed.ncbi.nlm.nih.gov/21671338/)
-* [https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china?t=1652910296642](https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china?t=1652910296642)
+* [The Secret Document That Transformed China](https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china?t=1652910296642)
 * [The territorial foundations of human property](http://pdescioli.com/papers/descioli.wilson.property.ehb11.pdf)
 * [Deep cultural ancestry and human development indicators across nation states](https://royalsocietypublishing.org/doi/full/10.1098/rsos.171411)
 * [Inequality and Growth](https://www.nber.org/digest/aug99/inequality-and-growth)
