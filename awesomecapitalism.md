@@ -82,12 +82,23 @@
 * [Black Innovators and Entrepreneurs Under Capitalism](https://fee.org/articles/black-innovators-and-entrepreneurs-under-capitalism/)
 * [Spain Has No Government For 10 Months - Economy Grows, Unemployment Falls To 18.9%](https://www.forbes.com/sites/timworstall/2016/10/27/spain-has-no-government-for-10-months-economy-grows-unemployment-falls-to-18-9/?sh=2336bed0b62c)
 * [The Impact of Knowledge-Based Economy on Growth Performance: Evidence from MENA Countries](https://link.springer.com/article/10.1007/s13132-018-0522-4)
-* [](https://www.aier.org/article/reform-the-k-12-government-school-monopoly-economics-and-facts/)
+* [Reform the K-12 Government- School Monopoly: Economics and Facts](https://www.aier.org/article/reform-the-k-12-government-school-monopoly-economics-and-facts/)
+* [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding#defining-a-theory-of-change)
+* [Intellectual property rights and innovation: A panel analysis](https://www.sciencedirect.com/science/article/abs/pii/S0165176516000069)
+* [Intellectual property rights and innovation in developing countries](https://www.sciencedirect.com/science/article/abs/pii/S0304387805000635)
+* [Do Stronger Intellectual Property Rights Increase Innovation?](https://www.sciencedirect.com/science/article/abs/pii/S0305750X14002630)
+* [Intellectual Property Rights and Innovation in SMEs in OECD Countries](http://nopr.niscair.res.in/handle/123456789/3612)
+* [How does intellectual property protection affect innovation](https://www.redpoints.com/blog/how-does-intellectual-property-protection-affect-innovation/)
+* [How patents encourage innovation in technological development and deployment](https://www.irena.org/inspire/Intellectual-Property-Rights/Innovation)
+* [Ten Ways IP Has Enabled Innovations That Have Helped Sustain the World Through the Pandemic](https://itif.org/publications/2021/04/29/ten-ways-ip-has-enabled-innovations-have-helped-sustain-world-through)
+* [Intellectual Property Rights Encourage Innovation and Reward Entrepreneurs](https://www.theglobalipcenter.com/why-is-ip-important/)
+* [IP Rights and Their Effect on Innovation](https://www.mckendree.edu/academics/scholars/issue6/weder.htm)
+* [Innovation and Intellectual Property](https://www.wipo.int/ip-outreach/en/ipday/2017/innovation_and_intellectual_property.html)
 
 * [The American Tractor Comes to Soviet Agriculture: The Transfer of a Technology](https://www.jstor.org/stable/3101161)
 * [The Private Sector in Soviet Agriculture](https://www.jstor.org/stable/2493038)
 * [Soviet Agricultural Policy](https://www.jstor.org/stable/4378606)
-* 
+
 
 * [Donations from teachers unions spiked as Congress debated school reopening, virus relief](https://rollcall.com/2021/04/28/donations-from-teachers-unions-spiked-as-congress-debated-school-reopening-virus-relief/)
 * [Union Political Contributions](https://www.opensecrets.org/industries/indus.php?ind=P)
@@ -98,3 +109,4 @@ Climate
 * [New data on air pollution in the former Soviet Union](https://www.sciencedirect.com/science/article/abs/pii/0959378094900035)
 * [To Counter Global Warming, Focus Far More on Methane, a New Study Recommends](https://insideclimatenews.org/news/09022022/methane-global-warming-study/)
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/uploads/2020/10/What-is-the-safest-form-of-energy-2048x1129.png)
+* [Normalized Difference Vegetation Index](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/normalized-difference-vegetation-index)
