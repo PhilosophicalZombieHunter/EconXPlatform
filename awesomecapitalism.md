@@ -35,7 +35,6 @@
 * [The effect of economic freedom on growth revisited](https://ideas.repec.org/a/eee/poleco/v24y2008i3p642-660.html)
 * [Market-oriented institutions and policies and economic growth: A critical survey](https://onlinelibrary.wiley.com/doi/10.1111/j.0950-0804.2006.00278.x)
 * [ECONOMIC FREEDOM OF THE WORLD: AN ACCOUNTING OF THE LITERATURE](https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12010)
-* [U.S. Poverty Has Plunged](https://www.cato.org/blog/us-poverty-has-plunged)
 * [Annual Report on U.S. Consumption Poverty: 2018](https://leo.nd.edu/assets/339909/2018_consumption_poverty_report_1_.pdf)
 * [Remember that study saying America is an oligarchy? 3 rebuttals say it's wrong.](https://www.vox.com/2016/5/9/11502464/gilens-page-oligarchy-study)
 * [Nearly a third of the world’s billionaires didn’t graduate college](https://www.cnbc.com/2016/08/11/nearly-a-third-of-the-worlds-billionaires-didnt-graduate-college.html)
@@ -108,7 +107,7 @@ Financial Crisis
 
 * [New Evidence on Redlining by Federal Housing Programs in the 1930s](https://www.nber.org/papers/w29244?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12)
 * [Fannie Mae Buys Low-Income Mortgage Loans : Securities: The $1.3-billion deal with Irvine-based American Savings Bank is the fund’s largest such purchase ever.](https://www.latimes.com/archives/la-xpm-1993-09-30-fi-40476-story.html)
-* [https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html](https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html)
+* [Minorities’ Home Ownership Booms Under Clinton but Still Lags Whites’](https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html)
 * [Are the Clintons the real housing crash villains?](https://www.cnbc.com/2016/05/28/are-the-clintons-the-real-housing-crash-villains.html)
 
 
