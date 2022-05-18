@@ -111,3 +111,4 @@ Climate
 * [What are the safest and cleanest sources of energy?](https://ourworldindata.org/uploads/2020/10/What-is-the-safest-form-of-energy-2048x1129.png)
 * [Normalized Difference Vegetation Index](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/normalized-difference-vegetation-index)
 * [6 Automakers and 30 Countries Say They’ll Phase Out Gasoline Car Sales](https://www.nytimes.com/2021/11/09/climate/cars-zero-emissions-cop26.html)
+* [Charm Completes Removal of 1,000 tons CO₂e for Shopify Ahead of Schedule](https://charmindustrial.com/blog/charm-completes-removal-of-1000-tons-co2e-for-shopify)
