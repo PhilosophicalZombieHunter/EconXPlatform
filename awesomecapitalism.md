@@ -43,11 +43,6 @@
 * [New Research Rejects Piketty and Saez’s Rewrite of Economic History](https://www.aier.org/article/new-research-rejects-piketty-and-saezs-rewrite-of-economic-history/)
 * [How Government (has not) Solved the Health Care Crisis](http://freenation.org/a/f12l3.html)
 * [Extreme Poverty Rates Plummet Under Capitalism](https://fee.org/articles/extreme-poverty-rates-plummet-under-capitalism/)
-
-* [New Evidence on Redlining by Federal Housing Programs in the 1930s](https://www.nber.org/papers/w29244?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12)
-* [Fannie Mae Buys Low-Income Mortgage Loans : Securities: The $1.3-billion deal with Irvine-based American Savings Bank is the fund’s largest such purchase ever.](https://www.latimes.com/archives/la-xpm-1993-09-30-fi-40476-story.html)
-* [https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html](https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html)
-* [Are the Clintons the real housing crash villains?](https://www.cnbc.com/2016/05/28/are-the-clintons-the-real-housing-crash-villains.html)
 * [Out of Poverty: Sweatshops in the Global Economy](https://www.cambridge.org/core/books/out-of-poverty/0CD8DA1E9854012B7ABDE016960F09AA#)
 * [The economies that are home to the poorest billions of people need to grow if we want global poverty to decline substantially](https://ourworldindata.org/poverty-growth-needed)
 * [Do the Rich Get All the Gains from Economic Growth?](https://russroberts.medium.com/do-the-rich-capture-all-the-gains-from-economic-growth-c96d93101f9c)
@@ -84,7 +79,7 @@
 * [The Impact of Knowledge-Based Economy on Growth Performance: Evidence from MENA Countries](https://link.springer.com/article/10.1007/s13132-018-0522-4)
 * [Reform the K-12 Government- School Monopoly: Economics and Facts](https://www.aier.org/article/reform-the-k-12-government-school-monopoly-economics-and-facts/)
 
-2IP
+IP
 
 * [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding#defining-a-theory-of-change)
 * [Intellectual property rights and innovation: A panel analysis](https://www.sciencedirect.com/science/article/abs/pii/S0165176516000069)
@@ -108,6 +103,14 @@ USSR
 Political Corruption
 
 * [Union Political Contributions](https://www.opensecrets.org/industries/indus.php?ind=P)
+
+Financial Crisis
+
+* [New Evidence on Redlining by Federal Housing Programs in the 1930s](https://www.nber.org/papers/w29244?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg12)
+* [Fannie Mae Buys Low-Income Mortgage Loans : Securities: The $1.3-billion deal with Irvine-based American Savings Bank is the fund’s largest such purchase ever.](https://www.latimes.com/archives/la-xpm-1993-09-30-fi-40476-story.html)
+* [https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html](https://www.latimes.com/archives/la-xpm-1999-may-31-mn-42807-story.html)
+* [Are the Clintons the real housing crash villains?](https://www.cnbc.com/2016/05/28/are-the-clintons-the-real-housing-crash-villains.html)
+
 
 Climate
 
