@@ -91,7 +91,7 @@
 * [Share of US households using specific technologies, 1860 to 2019](https://ourworldindata.org/grapher/technology-adoption-by-households-in-the-united-states)
 * [The Most Important Inventions of the 19th Century](https://www.thoughtco.com/inventions-nineteenth-century-4144740)
 * [When Does Economic Freedom Promote Well Being? On the Moderating Role of Long-Term Orientation](http://link.springer.com/10.1007/s11205-019-02230-9)
-
+* ["Health is just so heavily regulated, it’s just a painful business to be in. "](https://www.cato.org/blog/google-co-founders-sergey-brin-larry-page-health-care-regulation-blocking-innovation)
 
 IP
 
