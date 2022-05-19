@@ -77,6 +77,21 @@
 * [Spain Has No Government For 10 Months - Economy Grows, Unemployment Falls To 18.9%](https://www.forbes.com/sites/timworstall/2016/10/27/spain-has-no-government-for-10-months-economy-grows-unemployment-falls-to-18-9/?sh=2336bed0b62c)
 * [The Impact of Knowledge-Based Economy on Growth Performance: Evidence from MENA Countries](https://link.springer.com/article/10.1007/s13132-018-0522-4)
 * [Reform the K-12 Government- School Monopoly: Economics and Facts](https://www.aier.org/article/reform-the-k-12-government-school-monopoly-economics-and-facts/)
+* [Corporate innovation and economic freedom: Cross-country comparisons](https://www.sciencedirect.com/science/article/pii/S1062976916300114)
+* [Daily supply of calories per person, 2018](https://ourworldindata.org/grapher/daily-per-capita-caloric-supply)
+* [Economic Freedom and Innovation](https://www.semanticscholar.org/paper/Economic-Freedom-and-Innovation-Erkan/f17a0d7f0cdc279a506b6da67eb025c73a74a721)
+* [Free Economies are Clean Economies](https://www.c3solutions.org/policy-paper/free-economies-are-clean-economies/)
+* [Homeless people per 100,000 population, United States, 2007 to 2016](https://ourworldindata.org/grapher/homeless-per-capita-us)
+* [Institutional quality and innovation: some cross-country evidence](https://www.emerald.com/insight/content/doi/10.1108/JEPP-04-2016-0015/full/html)
+* [The Intellectual and Moral Decline in Academic Research](https://www.jamesgmartin.center/2020/01/the-intellectual-and-moral-decline-in-academic-research/)
+* [Katalin Karikó - mRNA and Government funding](https://en.wikipedia.org/w/index.php?title=Katalin_Karikó&oldid=1069109805)
+* [What a massive database of retracted papers reveals about science publishing's ‘death penalty'](https://www.science.org/content/article/what-massive-database-retracted-papers-reveals-about-science-publishing-s-death-penalty)
+* [Science, Under Scrutiny Itself (Government Funded R&D)](https://www.nytimes.com/2015/06/16/science/retractions-coming-out-from-under-science-rug.html)
+* [Share of people who are undernourished](https://ourworldindata.org/grapher/share-undernourished-region)
+* [Share of US households using specific technologies, 1860 to 2019](https://ourworldindata.org/grapher/technology-adoption-by-households-in-the-united-states)
+* [The Most Important Inventions of the 19th Century](https://www.thoughtco.com/inventions-nineteenth-century-4144740)
+* [When Does Economic Freedom Promote Well Being? On the Moderating Role of Long-Term Orientation](http://link.springer.com/10.1007/s11205-019-02230-9)
+
 
 IP
 
