@@ -1,5 +1,4 @@
 * [Technology and people: The great job-creating machine](https://www2.deloitte.com/uk/en/pages/finance/articles/technology-and-people.html)
-* [Saving Locke from Marx: The Labor Theory of Value in Intellectual Property Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1983614)
 * [Taxation and Innovation in the Twentieth Century](https://academic.oup.com/qje/article-abstract/137/1/329/6292271?redirectedFrom=fulltext)
 * [Taxation and Innovation in the Twentieth Century](https://microeconomicinsights.org/taxation-and-innovation-in-the-twentieth-century/)
 * [What Is a Patent Worth? Evidence from the U.S. Patent “Lottery”](https://www.cfainstitute.org/en/research/cfa-digest/2020/07/dig-v50-n7-5)
@@ -20,7 +19,7 @@ R&D
 
 IP
 
-* [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding#defining-a-theory-of-change)
+* [Saving Locke from Marx: The Labor Theory of Value in Intellectual Property Theory](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1983614)
 * [Intellectual property rights and innovation: A panel analysis](https://www.sciencedirect.com/science/article/abs/pii/S0165176516000069)
 * [Intellectual property rights and innovation in developing countries](https://www.sciencedirect.com/science/article/abs/pii/S0304387805000635)
 * [Do Stronger Intellectual Property Rights Increase Innovation?](https://www.sciencedirect.com/science/article/abs/pii/S0305750X14002630)
