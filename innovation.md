@@ -5,16 +5,17 @@
 * [What Is a Patent Worth? Evidence from the U.S. Patent “Lottery”](https://www.cfainstitute.org/en/research/cfa-digest/2020/07/dig-v50-n7-5)
 * [Patents and the Wealth of Nations](https://www.hoover.org/research/patents-and-wealth-nations)
 * [Katalin Karikó - mRNA and Government funding](https://en.wikipedia.org/w/index.php?title=Katalin_Karikó&oldid=1069109805)
-* [The Intellectual and Moral Decline in Academic Research](https://www.jamesgmartin.center/2020/01/the-intellectual-and-moral-decline-in-academic-research/)
-* [What a massive database of retracted papers reveals about science publishing's ‘death penalty'](https://www.science.org/content/article/what-massive-database-retracted-papers-reveals-about-science-publishing-s-death-penalty)
-* [Science, Under Scrutiny Itself (Government Funded R&D)](https://www.nytimes.com/2015/06/16/science/retractions-coming-out-from-under-science-rug.html)
 * [The Most Important Inventions of the 19th Century](https://www.thoughtco.com/inventions-nineteenth-century-4144740)
 * ["Health is just so heavily regulated, it’s just a painful business to be in. "](https://www.cato.org/blog/google-co-founders-sergey-brin-larry-page-health-care-regulation-blocking-innovation)
-* [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding)
+
 
 R&D 
 
 * [Thoughts on Mariana Mazzucato's Entrepreneurial State](https://nintil.com/mazzucato)
+* [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding)
+* [The Intellectual and Moral Decline in Academic Research](https://www.jamesgmartin.center/2020/01/the-intellectual-and-moral-decline-in-academic-research/)
+* [What a massive database of retracted papers reveals about science publishing's ‘death penalty'](https://www.science.org/content/article/what-massive-database-retracted-papers-reveals-about-science-publishing-s-death-penalty)
+* [Science, Under Scrutiny Itself (Government Funded R&D)](https://www.nytimes.com/2015/06/16/science/retractions-coming-out-from-under-science-rug.html)
 
 
 IP
