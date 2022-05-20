@@ -15,3 +15,4 @@
 * higher life satisfaction
 * higher rating on the OECD's better life index 
 * higher environmental performance index
+5) Removal of high government spending may help with paying down the $31 Trillion debt. 
