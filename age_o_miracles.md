@@ -13,3 +13,5 @@ https://en.wikipedia.org/wiki/Gilded_Age#Economic_growth
 Population growth: The population in the US in 1870 was 38.5 million and in 1900 it was 76.3 million
 
 During this period, the freedom and strong individual property rights led to the following innovations: the **phonograph**, **telephone** and later **switchboards**, **electric lamp** and **power grids**, improved use of metal to make **skyscrapers** in cities,  you went from a horse drawn carrige to a train and a **car** affordably made by Henry Ford, **airplanes**, the wireless **telegram** and amplifier tubes, **singer's sewing machine** became available for regular people with innovative financial products, **washing machines** and **cameras** and **short videos** . It was called [the age of miracles](https://www.youtube.com/watch?v=9xjPiYmhJqg). 
+
+From 1870 to 1914, US GDP total growth was 393%. Whereas from 1970 to 2014, US GDP total growth was 242%. 
