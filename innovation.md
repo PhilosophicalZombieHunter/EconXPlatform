@@ -31,3 +31,12 @@ IP
 * [IP Rights and Their Effect on Innovation](https://www.mckendree.edu/academics/scholars/issue6/weder.htm)
 * [Innovation and Intellectual Property](https://www.wipo.int/ip-outreach/en/ipday/2017/innovation_and_intellectual_property.html)
 
+Spam!
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1983614
+https://www.sciencedirect.com/science/article/abs/pii/S0165176516000069
+https://www.sciencedirect.com/science/article/abs/pii/S0304387805000635
+https://www.sciencedirect.com/science/article/abs/pii/S0305750X14002630
+http://nopr.niscair.res.in/handle/123456789/3612
+https://www.hoover.org/research/patents-and-wealth-nations
+https://www.jstor.org/stable/24562571
